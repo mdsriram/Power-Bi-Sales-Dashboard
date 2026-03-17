@@ -9,8 +9,8 @@ Key Features
 5. KPI Card showing total number of orders
 
 Tools Used
-Power BI
-Excel
+1. Power BI
+2. Excel
 
 Key Insights
 1. Strong relationship between prfit and net sales
@@ -19,8 +19,8 @@ Key Insights
 4. Certain cities contribute significantly more to sales
 
 Files Included
-Sales Project.pbix
-Sales_Data.xlsx
+1. Sales Project.pbix
+2. Sales.xlsx
 
 Screenshots
 <img width="552" height="394" alt="image" src="https://github.com/user-attachments/assets/ea00a8c9-c8d8-41af-b704-738145b4ef69" />
